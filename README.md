@@ -7,7 +7,7 @@ A simple NLP web app built with Python, TextBlob, and Streamlit.
 - Simple web app using Streamlit
 - Button to control analysis
 
-## How to run
+### How to run
 pip install streamlit textblob
 streamlit run app.py
 
